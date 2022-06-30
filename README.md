@@ -2,10 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+This project was developed for Algoriza internship
 
  <img src="screen shots/Screenshot_1.png" width="300"> 
- <img src="screen shots/Screenshot_1.png" width="300"> 
- <img src="screen shots/Screenshot_1.png" width="300">
+ <img src="screen shots/Screenshot_2.png" width="300"> 
+ <img src="screen shots/Screenshot_3.png" width="300">
